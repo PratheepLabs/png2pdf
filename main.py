@@ -18,7 +18,7 @@ def png_to_pdf(input_dir, output_pdf):
     print(f"Success! PDF saved to: {output_pdf}")
 
 
-DIRECTORY_PATH = '/home/pratheep/Downloads/Quiz-20260608T113458Z-3-001/Quiz'
+DIRECTORY_PATH = 'absolute/path/to/your/png/files'
 OUTPUT_FILE = 'merged_output.pdf'
 
 if __name__ == "__main__":
